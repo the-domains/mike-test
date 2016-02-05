@@ -1,0 +1,28 @@
+name: Mike Test
+favicon: null
+layout_spectrum: 0.03741714474745095
+typography_spectrum: 0.7548351064324379
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8687716228887439
+  lightness: 0.04649407812394202
+  saturation: 0.8185240682214499
+  rhythmicContrast: 0.6820651309099048
+purpose: []
